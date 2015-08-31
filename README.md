@@ -10,3 +10,7 @@ Maintainers will either try to find a good tutorial or write one.
 ## Supplying a Tutorial
 
 Please try to note the date, version, and other relevant information that the tutorial is targeting.
+
+## Tutorial Collection
+
+There's a great collection of Haskell tutorials available at [dohaskell](http://www.dohaskell.com/). 
