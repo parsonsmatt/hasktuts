@@ -1,6 +1,6 @@
 # hasktuts
 
-A collection of introductory tutorials on Haskell libraries
+A collection of introductory tutorials and *requests* for tutorials on Haskell libraries
 
 ## Requesting a Tutorial
 
